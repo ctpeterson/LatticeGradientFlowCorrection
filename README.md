@@ -1,2 +1,3 @@
 # LatticeGradientFlowCorrection
-Accurate numerical estimate of tree-level improvement factor for the gradient-flowed Yang-Mills energy density calculated in JHEP09(2014)018
+Accurate numerical estimate of tree-level improvement factor for the gradient-flowed Yang-Mills energy density calculated in ["The lattice gradient flow at tree-level and its improvement" by Zoltan Fodor, Kieran Holland, Julius Kuti, Santanu Mondal, Daniel Nogradic, and Chik Him Wong](https://link.springer.com/article/10.1007/JHEP09(2014)018). You should cite the latter work if you use this code for your research.
+
